@@ -1,0 +1,11 @@
+body {
+  --font-size-default: 16px;
+  --font-family-default: Helvetica, Arial, sans-serif;
+
+  --color-text-default: rgb(224, 224, 224);
+  --color-text-grey: rgb(189, 189, 189);
+  --color-grey: rgb(18, 18, 18);
+  --color-dark-grey: rgb(32, 32, 32);
+  --color-red: rgb(240, 98, 146);
+  --color-green: rgb(72, 187, 120);
+}
