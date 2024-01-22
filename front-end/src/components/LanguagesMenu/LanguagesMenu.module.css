@@ -1,0 +1,12 @@
+.languagesMenu {
+  width: 100%;
+  background-color: var(--color-grey);
+}
+
+.languagesMenu ul {
+  max-width: 100rem;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  display: flex;
+  gap: 0.5rem;
+}

@@ -1,7 +1,11 @@
+import { Header } from "./components/Header/Header";
+import { LanguagesMenu } from "./components/LanguagesMenu/LanguagesMenu";
+
 function App() {
   return (
     <>
-      <p>MARTYNKA!!!</p>
+      <Header />
+      <LanguagesMenu/>
     </>
   );
 }
